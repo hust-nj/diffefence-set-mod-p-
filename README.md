@@ -1,4 +1,4 @@
-# diffefence set modp
+# difference set modp
 λ(p-1)=k(k-1)
 致力于解决关于对称不完全区组设计(SBIBD)中的mod(p)下的差分集构造
 ## 差分集
